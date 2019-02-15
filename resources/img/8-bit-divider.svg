@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="171px" viewBox="0 0 375 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="2.45890535%" id="linearGradient-1">
+            <stop stop-color="#161717" offset="0%"></stop>
+            <stop stop-color="#161717" stop-opacity="0.60229846" offset="61.2581286%"></stop>
+            <stop stop-color="#161717" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15" transform="translate(-18.000000, -1.000000)">
+            <g id="Group-3-Copy" fill="#30150E">
+                <polygon id="Rectangle" transform="translate(34.932055, 34.943953) rotate(45.000000) translate(-34.932055, -34.943953) " points="10.9364696 10.9355398 58.9364696 10.9355398 58.9364696 58.9355398 34.9949262 58.9523659 10.9276405 34.8850802"></polygon>
+                <rect id="Rectangle-Copy" transform="translate(102.941125, 34.941125) rotate(45.000000) translate(-102.941125, -34.941125) " x="78.9411255" y="10.9411255" width="48" height="48"></rect>
+                <rect id="Rectangle-Copy-2" transform="translate(170.941125, 34.941125) rotate(45.000000) translate(-170.941125, -34.941125) " x="146.941125" y="10.9411255" width="48" height="48"></rect>
+                <rect id="Rectangle-Copy-3" transform="translate(238.941125, 34.941125) rotate(45.000000) translate(-238.941125, -34.941125) " x="214.941125" y="10.9411255" width="48" height="48"></rect>
+                <rect id="Rectangle-Copy-4" transform="translate(306.941125, 34.941125) rotate(45.000000) translate(-306.941125, -34.941125) " x="282.941125" y="10.9411255" width="48" height="48"></rect>
+                <polygon id="Rectangle-Copy-5" transform="translate(374.952754, 34.929497) rotate(45.000000) translate(-374.952754, -34.929497) " points="350.952754 10.9459423 376.458968 10.9130509 398.933957 33.3880398 398.952754 58.9459423 350.952754 58.9459423"></polygon>
+            </g>
+            <rect id="Rectangle-Copy-9" fill="#30150E" x="18" y="35" width="375" height="137"></rect>
+            <rect id="Rectangle-Copy-12" fill="url(#linearGradient-1)" x="18" y="56" width="375" height="116"></rect>
+        </g>
+    </g>
+</svg>

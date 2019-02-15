@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="517px" viewBox="0 0 375 517" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-XS" transform="translate(0.000000, -444.000000)">
+            <g id="Group-2" transform="translate(0.000000, 444.000000)">
+                <path d="M30.4279554,338.983773 C-10.1426518,292.99878 -10.1426518,224.00122 30.4279554,178.016227 L187.49785,0 L344.567744,178.016227 C385.144085,224.00122 385.144085,292.99878 344.567744,338.983773 L187.49785,517 L30.4279554,338.983773 Z" id="Path" fill="#FF8C5A"></path>
+                <path d="M51.2233934,234.728337 C30.9255355,211.748903 30.9255355,177.256828 51.2233934,154.277393 L187.5,0 L323.776607,154.277393 C344.074464,177.256828 344.074464,211.748903 323.776607,234.728337 L187.5,389 L51.2233934,234.728337 Z" id="Path" fill="#FFCF55" opacity="0.8"></path>
+                <path d="M53.2631995,364.822678 C33.0307732,342.037757 32.8984975,307.88324 52.9526393,284.938265 L187.5,131 L322.047361,284.938265 C342.101503,307.88324 341.969227,342.037757 321.7368,364.822678 L187.5,516 L53.2631995,364.822678 Z" id="Path" fill="#FF5A5A" opacity="0.6"></path>
+                <polygon id="Path" fill="#FE505A" points="131 453 187.51437 389 244 453 187.51437 517"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
