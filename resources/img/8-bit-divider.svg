@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="375px" height="171px" viewBox="0 0 375 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="708px" height="321px" viewBox="0 0 708 321" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
     <title>Group 15</title>
     <desc>Created with Sketch.</desc>
@@ -11,17 +11,17 @@
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-15" transform="translate(-18.000000, -1.000000)">
+        <g id="Group-15" transform="translate(-31.000000, 0.000000)">
             <g id="Group-3-Copy" fill="#30150E">
-                <polygon id="Rectangle" transform="translate(34.932055, 34.943953) rotate(45.000000) translate(-34.932055, -34.943953) " points="10.9364696 10.9355398 58.9364696 10.9355398 58.9364696 58.9355398 34.9949262 58.9523659 10.9276405 34.8850802"></polygon>
-                <rect id="Rectangle-Copy" transform="translate(102.941125, 34.941125) rotate(45.000000) translate(-102.941125, -34.941125) " x="78.9411255" y="10.9411255" width="48" height="48"></rect>
-                <rect id="Rectangle-Copy-2" transform="translate(170.941125, 34.941125) rotate(45.000000) translate(-170.941125, -34.941125) " x="146.941125" y="10.9411255" width="48" height="48"></rect>
-                <rect id="Rectangle-Copy-3" transform="translate(238.941125, 34.941125) rotate(45.000000) translate(-238.941125, -34.941125) " x="214.941125" y="10.9411255" width="48" height="48"></rect>
-                <rect id="Rectangle-Copy-4" transform="translate(306.941125, 34.941125) rotate(45.000000) translate(-306.941125, -34.941125) " x="282.941125" y="10.9411255" width="48" height="48"></rect>
-                <polygon id="Rectangle-Copy-5" transform="translate(374.952754, 34.929497) rotate(45.000000) translate(-374.952754, -34.929497) " points="350.952754 10.9459423 376.458968 10.9130509 398.933957 33.3880398 398.952754 58.9459423 350.952754 58.9459423"></polygon>
+                <polygon id="Rectangle" transform="translate(63.945927, 64.066523) rotate(45.000000) translate(-63.945927, -64.066523) " points="18.9020085 19.1309118 109.138412 18.8665033 108.873919 109.103029 63.8655187 109.266543 18.7534421 64.1543628"></polygon>
+                <polygon id="Rectangle-Copy" transform="translate(191.965419, 64.061195) rotate(45.000000) translate(-191.965419, -64.061195) " points="147.05891 19.1546866 237.135911 18.8907031 236.871927 108.967704 146.794926 109.231687"></polygon>
+                <polygon id="Rectangle-Copy-2" transform="translate(319.948479, 64.061195) rotate(45.000000) translate(-319.948479, -64.061195) " points="275.041971 19.1546866 365.118971 18.8907031 364.854988 108.967704 274.777987 109.231687"></polygon>
+                <polygon id="Rectangle-Copy-3" transform="translate(447.931540, 64.061195) rotate(45.000000) translate(-447.931540, -64.061195) " points="403.025032 19.1546866 493.102032 18.8907031 492.838049 108.967704 402.761048 109.231687"></polygon>
+                <polygon id="Rectangle-Copy-4" transform="translate(575.914601, 64.061195) rotate(45.000000) translate(-575.914601, -64.061195) " points="531.008092 19.1546866 621.085093 18.8907031 620.821109 108.967704 530.744109 109.231687"></polygon>
+                <polygon id="Rectangle-Copy-5" transform="translate(703.937628, 64.039278) rotate(45.000000) translate(-703.937628, -64.039278) " points="659.019017 19.027298 706.98201 18.8250285 749.120883 60.9478076 749.015318 108.989229 658.754373 109.253528"></polygon>
             </g>
-            <rect id="Rectangle-Copy-9" fill="#30150E" x="18" y="35" width="375" height="137"></rect>
-            <rect id="Rectangle-Copy-12" fill="url(#linearGradient-1)" x="18" y="56" width="375" height="116"></rect>
+            <rect id="Rectangle-Copy-9" fill="#30150E" x="31.8792453" y="63.7584906" width="705.690566" height="257.207547"></rect>
+            <rect id="Rectangle-Copy-12" fill="url(#linearGradient-1)" x="31.8792453" y="103.607547" width="705.690566" height="217.358491"></rect>
         </g>
     </g>
 </svg>

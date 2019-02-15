@@ -1,6 +1,10 @@
 function animate() {
   var width = window.innerWidth > 0 ? window.innerWidth : screen.width;
 
+
+  window.onresize = function() {
+    width = window.innerWidth > 0 ? window.innerWidth : screen.width;
+  }
   function resetValues() {
     anime.set(".spark", {
       translateX: function() {
