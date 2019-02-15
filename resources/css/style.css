@@ -213,8 +213,9 @@ footer {
 
 .is-boxed ul {
   width: 230px;
-  padding-left: 20px;
+  padding-left: 26px;
   margin: 16px auto 32px;
+  list-style-type: square;
 }
 
 .is-boxed.carousel-card {
